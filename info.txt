@@ -1,0 +1,13 @@
+What each thing means (plain English)
+
+data/smiling/ → images where person is smiling
+
+data/not_smiling/ → images where person is NOT smiling
+
+preprocess.py → image → numbers
+
+dataset.py → load images + labels
+
+train.py → model learns
+
+test.py → check prediction
